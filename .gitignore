@@ -44,3 +44,7 @@ terraform.rc
 # planoutlambda/app.zip
 
 lambda/app.zip
+
+# Python generated files
+__pycache__/
+*.py[cod]
